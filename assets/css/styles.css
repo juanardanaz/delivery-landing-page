@@ -226,6 +226,23 @@ img {
 .button_header {
   display: none;
 }
+.button-link {
+  background: none;
+  padding: 0;
+  color: var(--title-color);
+}
+.button-link:hover {
+  background-color: transparent;
+}
+.button-flex {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 0.25rem;
+  padding: 0.75rem 1rem;
+}
+.button_icon {
+  font-size: 1.5rem;
+}
 
 /* ========= ABOUT ========= */
 .about_container {
@@ -241,4 +258,40 @@ img {
 }
 .security_description {
   text-align: center;
+}
+
+/* ========= SERVICES ========= */
+.services_container {
+  padding-top: 1rem;
+}
+.services_data {
+  display: grid;
+  row-gap: 1rem;
+  background-color: var(--container-color);
+  box-shadow: 0 2px 6px hsla(var(--hue), 100%, 15%, 0.15);
+  padding: 2rem 1.5rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+.services_img {
+  width: 135px;
+  justify-self: center;
+  margin-bottom: var(--mb-0-5);
+}
+
+/* ========= APP ========= */
+.app_container {
+  gap: 2.5rem;
+}
+.app_data {
+  text-align: center;
+}
+.app_description {
+  margin-bottom: var(--mb-1-5);
+}
+.app_buttons {
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  justify-content: center;
+  gap: 0.5rem;
 }
