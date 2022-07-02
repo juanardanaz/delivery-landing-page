@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://juanardanaz.github.io/delivery-landing-page/](https://your-solution-url.com)
-- Live Site URL: [https://github.com/juanardanaz/delivery-landing-page](https://your-live-site-url.com)
+- Solution URL: [https://github.com/juanardanaz/delivery-landing-page/](https://your-solution-url.com)
+- Live Site URL: [https://juanardanaz.github.io/delivery-landing-page/](https://your-live-site-url.com) 
 
 ## My process
 
