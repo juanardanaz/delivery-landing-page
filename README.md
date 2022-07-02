@@ -6,6 +6,7 @@ This is a practise of a Responsive Delivery Landing Page.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -18,6 +19,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+### Links
+
+- Solution URL: [https://juanardanaz.github.io/delivery-landing-page/](https://your-solution-url.com)
+- Live Site URL: [https://github.com/juanardanaz/delivery-landing-page](https://your-live-site-url.com)
 
 ## My process
 
