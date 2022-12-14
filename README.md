@@ -1,6 +1,6 @@
 # Responsive Delivery landing page
 
-This is a practise of a Responsive Delivery Landing Page. 
+This is a practise of a Responsive Delivery Landing Page, based on the design made by [Bedimcode](https://github.com/bedimcode). 
 
 ## Table of contents
 
